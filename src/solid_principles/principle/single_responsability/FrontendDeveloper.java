@@ -1,7 +1,6 @@
 package solid_principles.principle.single_responsability;
 
 public class FrontendDeveloper {
-	private String name;
 		
 	public void workOnCode() {
 		System.out.println("I am writing frontend Code !");
